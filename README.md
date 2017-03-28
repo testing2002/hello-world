@@ -1,5 +1,5 @@
 # hello-world
-Testje voor DELTAISIS
+Test voor DELTAISIS
 
 ULU Kappa
 
