@@ -1,8 +1,13 @@
 # hello-world
 Test voor DELTAISIS
 
-ULU Kappa
+ULU KappaPride
 
 This is a change
 
-THIS IS FOR SPARTA AND COMMIT
+MORE CODE
+
+TESTING ONE TWO THREE
+
+this line shouldn't be here
+
