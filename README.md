@@ -12,6 +12,4 @@ TESTING ONE TWO THREE
 this line shouldn't be here
 
 
-DONT TOUCH MY MASTER SAMA
-
 HEADER TEST
